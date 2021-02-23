@@ -8,6 +8,6 @@
 - once the pthread terminates, and the progress bar is filled, the program outputs the total word count of the given file
 
 ### Sample Output
-- this "progress bar" will fill as the file is read -> shown is the final console log
+- this "progress bar" will fill as the file is read -> shown is the final console log <br>
 ---------+---------+---------+---------+---------+ <br>
 There are 1095695 words in big.txt
